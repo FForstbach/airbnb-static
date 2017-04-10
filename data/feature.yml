@@ -1,0 +1,12 @@
+- image: beer.png
+  title: Tons of Beer
+  description: This is the description for second feature.
+- image: heart.png
+  title: Very lovely
+  description: This is the description for second feature.
+- image: globe.png
+  title: Worldwide
+  description: This is the description for second feature.
+- image: dollar.png
+  title: Super Expensive
+  description: This is the description for second feature.

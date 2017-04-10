@@ -1,0 +1,21 @@
+- category: POPULAR
+  title: Paris
+  description: This is Paris.
+  subtitle: This is a subtitle for Paris.
+  image: card-paris.jpg
+  avatar_image: seb.jpg
+  link: ""
+- category: FUN
+  title: London
+  description: This is London.
+  subtitle: This is a subtitle for London.
+  image: card-london.jpeg
+  avatar_image: romain.jpg
+  link: ""
+- category: CHEAP
+  title: Brussels
+  description: This is Brussels.
+  subtitle: This is a subtitle for Brussels.
+  image: card-brussels.jpeg
+  avatar_image: anne.jpg
+  link: ""
